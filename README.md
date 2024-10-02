@@ -4,7 +4,7 @@ This project focuses on analyzing a dataset of COVID-19 cases across 51 US state
 
 ### Table of Contents
 
-- [Project Overview](Project_Overview)
+- [Project Overview](#Project_Overview)
 - Dataset Description
 - Installation and Setup
 - Data Preprocessing
