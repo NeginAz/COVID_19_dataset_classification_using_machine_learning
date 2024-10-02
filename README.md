@@ -22,6 +22,7 @@ The goal of this project is to analyze the DKMA-COVID19-Jan-States dataset, clea
 The dataset contains statistics related to COVID-19 cases across US states for each day in January 2021, sourced from:
 
 [John Hopkins University CSSE COVID-19](https://github.com/CSSEGISandData/COVID-19)
+<br>
 [US 2020 Census](https://www.census.gov)
 
 The dataset features include:
