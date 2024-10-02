@@ -4,15 +4,13 @@ This project focuses on analyzing a dataset of COVID-19 cases across 51 US state
 
 ## Table of Contents
 
-1. [Project Overview](#Project-Overview)
+1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
-- Installation and Setup
-- Data Preprocessing
-- Dimensionality Reduction
-- Classification Models
-- Results and Analysis
-- Project Structure
-- Conclusion
+3. [Data Preprocessing](#Data-Preprocessing)
+4. [Dimensionality Reduction](#Dimensionality-Reduction)
+5. [Classification Models](#lassification-Models)
+6. [Results and Analysis](#Results-and-Analysis)
+7. [Conclusion](#Conclusion)
 
 
 ## Project Overview
